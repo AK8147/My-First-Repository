@@ -11,6 +11,7 @@ public class pyramid {
 				System.out.print(i);
 			}
 			System.out.println();
+			system.out.println();
 		}
 	}
  
